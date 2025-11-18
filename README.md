@@ -13,3 +13,4 @@ This repository contains the implementation of our paper:
 python=3.8.10
 pip install -r requirements.txt
 ******
+The data must be converted to the h5 format.
